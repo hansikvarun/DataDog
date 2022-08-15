@@ -1,5 +1,3 @@
-umesh.pendhare
-
 #!/bin/bash
 
 # install nginx
